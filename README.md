@@ -54,6 +54,10 @@ El objetivo de este proyecto es mostrar la funcionalidad de un contador y realiz
 
 
 
+[getx](https://github.com/jllanas1986/Flutter_GetX_counter/assets/122029674/a8758b6c-3a1f-4513-9065-26182eb5531e)
+
+
+
 ## Recursos 📚
 
 [Locos por Flutter y Dart](https://www.youtube.com/@locosporflutterydart3874)
