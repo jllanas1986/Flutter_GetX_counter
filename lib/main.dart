@@ -53,7 +53,7 @@ class Pagina extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('GetX desde 0'),
+        title: const Text('GetX'),
       ),
       body: Center(
         child: Column(
